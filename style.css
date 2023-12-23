@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.Graduate-logo {
+    position: relative;
+    top: -12px;
+    right: -20px;
+}
+
+a {
+    color: #E0E0E0 !important;
+}
+
+.Login {
+    border: 1px solid rgba(252, 200, 34, 1);
+    color: rgba(252, 200, 34, 1);
+}
+
+/*  */
+.sn-option {
+    position: relative;
+    top: -40px;
+    left: -20px;
+}
+
+.option-bg{
+    /* background-color: #D1D1D1 !important; */
+    background: linear-gradient(95deg, #D1D1D1 0%, #D1D1D1 100%);
+    box-shadow: 0px 5.806px 23.223px -6.967px #D1D1D1;
+}
+.mt-6{
+    margin-top: 250px;
+}
+.curve-design{
+    position: relative;
+    bottom: -15px;
+    left: -47px;
+}
